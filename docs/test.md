@@ -1,6 +1,6 @@
 layout: post
 title: "Test Post"
-date: 2022-02-02 hh:mm:ss -0000
-categories: CATEGORY-1 CATEGORY-2
+date: 2022-02-02 10:10:10 -0000
+categories: Test
 
 #This is a test for GitHub Pages
